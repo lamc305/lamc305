@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Developer
 -------------------
 
-I have 23 years old, and discovered that I like programming too much,
+I have 23 years old, and discovered that I like programming too much.
 
 * 🌍  I'm based in Venezuela
 * ✉️  You can contact me at [lamc3005@gmail.com](mailto:lamc3005@gmail.com)
