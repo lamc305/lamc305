@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### <div align="center">I'm a full-time frontend developer </div>  
 
-- I’m currently learning Next.js, TypeScript and Tailwind CSS  
+- I’m currently learning Node.js  
 - I have 23 years old, and discovered that I like programming too much.  
 
 - ❓ Ask me about anything related to React and related technologies  
