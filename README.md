@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### <div align="center">I'm a full-time frontend developer </div>  
 
 
-- I have 24 years old, and discovered that I like programming too much.  
+- I have 25 years old, and discovered that I like programming too much.  
 
 - ❓ Ask me about anything related to React and related technologies  
   
