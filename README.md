@@ -6,11 +6,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### <div align="center">I'm a full-time frontend developer </div>  
 
 
-- I have 25 years old, and discovered that I like programming too much.  
+- I have 26 years old, and discovered that I like programming too much.  
 
 - ❓ Ask me about anything related to React and related technologies  
   
-
 - ⚡ Fun fact: I use tabs over spaces  
 
 - 🌍  I'm based in Venezuela
